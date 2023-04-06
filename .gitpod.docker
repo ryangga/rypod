@@ -1,4 +1,2 @@
 FROM z3zens/ubuntu:latest
-USER root
-RUN docker pull z3zens/ubuntu:latest
-USER root
+
