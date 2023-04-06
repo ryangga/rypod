@@ -1,1 +1,4 @@
-FROM ghcr.io/sushrut1101/docker:arch
+FROM z3zens/ubuntu:latest
+USER root
+RUN docker pull z3zens/ubuntu:latest
+USER root
