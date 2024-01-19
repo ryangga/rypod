@@ -1,8 +1,8 @@
 # A simple Gitpod.io workspace
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nerdprojectorg/nrdpod)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ryangga/rypod)
 
-**Brought by** @z3zens
+**Brought by** @ryangga
 
 **Based on** Ubuntu docker image
 
